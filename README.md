@@ -1,6 +1,6 @@
-Hello world! 👋 I'm Katherine 👽
+Hello world! 👋 I'm not an alien (I swear) 👽
 
-👩🏻‍🎓 previous experience as an accounting technician, but currently re-orienting my career<br />
+👩🏻‍🎓 previous experience in accounting, but currently re-orienting my career<br />
 👩🏻‍💻 learning to code at [42Quebec](https://42quebec.com/)<br />
 🌱 working on projects in C and shell<br />
 
