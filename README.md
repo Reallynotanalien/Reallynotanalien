@@ -1,4 +1,4 @@
-Hello world! 👋 I'm not an alien (I swear) 👽
+<h1>Hello world! 👋 I'm not an alien (I swear) 👽</h1>
 
 👩🏻‍🎓 previous experience in accounting, but currently re-orienting my career<br />
 👩🏻‍💻 learning to code at [42Quebec](https://42quebec.com/)<br />
