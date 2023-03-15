@@ -1,7 +1,7 @@
 Hello world! 👋 I'm Katherine 👽
 
 👩🏻‍🎓 previous experience as an accounting technician, but currently re-orienting my career<br />
-👩🏻‍💻 learning coding at [42Quebec](https://42quebec.com/)<br />
+👩🏻‍💻 learning to code at [42Quebec](https://42quebec.com/)<br />
 🌱 working on projects in C and shell<br />
 
 <p >
