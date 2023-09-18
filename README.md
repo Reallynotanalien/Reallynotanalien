@@ -1,6 +1,7 @@
 <h1>Hello world! 👋 I'm not an alien (I swear) 👽</h1>
 
 👩🏻‍🎓 previous experience in accounting, but currently re-orienting my career<br />
+🌷 owner of a cute little crochet flower shop called [Bouquetsdelaine] (https://www.bouquetsdelaine.com/)<br />
 👩🏻‍💻 learning to code at [42Quebec](https://42quebec.com/)<br />
 🌱 working on projects in C and shell<br />
 
